@@ -1,3 +1,10 @@
+.card{
+    display: flex;
+    align-items: center;
+    height: 120px;
+    width: 120px;
+    border: 3;
+}
 .teste{
     font-size: 40px;
     color:green;
